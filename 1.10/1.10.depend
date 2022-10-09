@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1664457712 source:e:\codeblock\Ñ§Ï°¿Î\1.10\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"add.h"
+
+1664457115 e:\codeblock\Ñ§Ï°¿Î\1.10\add.h
+
+1664457115 source:e:\codeblock\Ñ§Ï°¿Î\1.10\add.h
+
+1664457627 source:e:\codeblock\Ñ§Ï°¿Î\1.10\add.c
+	"add.h"
+
